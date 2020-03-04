@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "sunwei blog",
+  "main": "index.js",
+  "authors": {
+    "name": "sunwei",
+    "email": "davey.job@gmail.com"
+  },
+  "repository": "https://vipsunwei.github.io/blog",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^1.0.0",
+    "vuepress": "^1.0.0"
+  },
+  "dependencies": {
+    "vuepress-theme-ting": "^1.4.5"
+  }
+}
