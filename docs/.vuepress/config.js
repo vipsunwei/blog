@@ -4,7 +4,7 @@ module.exports = {
   title: "Uncle Wei",
   description: "Enjoy when you can, and endure when you must.",
   dest: "dist",
-  base: "blog",
+  base: "/blog/",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
