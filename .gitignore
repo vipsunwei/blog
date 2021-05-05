@@ -1,0 +1,9 @@
+node_modules/
+dist/
+deploy.sh
+.DS_Store
+**/.DS_Store
+.git/
+.vscode/
+.gitlab-ci.yml
+*.local
